@@ -8,11 +8,11 @@ Dự án thiết kế mạch in (PCB) cho bộ cộng 8-bit, được xây dựn
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 - [Nguyên lý hoạt động](#nguyên-lý-hoạt-động)
 - [Công cụ sử dụng](#công-cụ-sử-dụng)
-- [Danh sách linh kiện](#danh-sách-linh-kiện)
+
 - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
 - [Hình ảnh](#hình-ảnh)
 - [Tác giả](#tác-giả)
-- [Giấy phép](#giấy-phép)
+
 
 ## Giới thiệu
 
@@ -74,19 +74,9 @@ Cout S7     C1 S1      C0 S0
 
 ## Công cụ sử dụng
 
-- Phần mềm thiết kế PCB: `[KiCad / Altium / EasyEDA / ...]`
-- Mô phỏng: `[Proteus / LTspice / Multisim / ...]`
+- Phần mềm thiết kế PCB: `KiCad `
 
 > Cập nhật lại mục này theo công cụ bạn thực sự dùng.
-
-## Danh sách linh kiện
-
-| Linh kiện | Số lượng | Ghi chú |
-| --- | :---: | --- |
-| `[IC / cổng logic]` | `[?]` | `[?]` |
-| `[LED hiển thị]` | `[?]` | `[?]` |
-| `[Công tắc / DIP switch]` | `[?]` | `[?]` |
-| `[Điện trở]` | `[?]` | `[?]` |
 
 ## Hướng dẫn sử dụng
 
@@ -112,9 +102,11 @@ Cấp nguồn `5V`, đặt các giá trị `A`, `B`, `Cin` và đối chiếu `S
 
 ## Hình ảnh
 
-<!-- Thêm ảnh schematic, layout PCB và mạch thực tế vào đây -->
-<!-- ![Schematic](images/schematic.png) -->
-<!-- ![PCB layout](images/pcb.png) -->
+<img width="1042" height="712" alt="image" src="https://github.com/user-attachments/assets/d1c37849-01e5-43aa-9d49-cc9269abf98b" />
+<img width="758" height="761" alt="image" src="https://github.com/user-attachments/assets/35310305-00a8-441f-8e3e-143a06df89a1" />
+<img width="1057" height="687" alt="image" src="https://github.com/user-attachments/assets/d9d7dcc1-ff8f-411c-8e08-64e951ebb69b" />
+<img width="546" height="542" alt="image" src="https://github.com/user-attachments/assets/874212eb-3796-4561-b1ee-938f2d943d16" />
+
 
 ## Tác giả
 
