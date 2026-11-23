@@ -76,8 +76,6 @@ Cout S7     C1 S1      C0 S0
 
 - Phần mềm thiết kế PCB: `KiCad `
 
-> Cập nhật lại mục này theo công cụ bạn thực sự dùng.
-
 ## Hướng dẫn sử dụng
 
 **1. Tải mã nguồn**
